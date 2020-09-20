@@ -102,7 +102,7 @@ No Activity tracked this Week
 
 ##  Contact Me :speech_balloon:
 
-[<img src="https://img.shields.io/badge/HLacroix-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hippolyte-lacroix/) [<img src="https://img.shields.io/badge/Nerwin-yellow.svg?style=for-the-badge&logo=github&logoColor=white" />]  ![Visits Badge](https://badges.pufler.dev/visits/Nerwin/nerwin?style=for-the-badge )   
+[<img src="https://img.shields.io/badge/HLacroix-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hippolyte-lacroix/) [<img src="https://img.shields.io/badge/Nerwin-yellow.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Nerwin/)  ![Visits Badge](https://badges.pufler.dev/visits/Nerwin/nerwin?style=for-the-badge )   
 
 <div align="center">
 
