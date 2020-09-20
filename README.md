@@ -2,7 +2,7 @@
 	<img
 		width=“300”
 		alt=“”
-		src=“https://raw.githubusercontent.com/nerwin/nerwin/master/img/banner.jpg”>
+		src=“https://github.com/Nerwin/nerwin/blob/master/img/banner.jpg”>
 </h1>
 
 <h3 align=“center”>
