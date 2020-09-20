@@ -2,14 +2,14 @@
 
 [<img src="https://img.shields.io/badge/Developer-Backend-yellow?style=for-the-badge" />](_blank) [<img src = "https://img.shields.io/badge/Os-MacOS-blue?style=for-the-badge&logo=apple&logoColor=white">](_blank)  [<img src ="https://img.shields.io/badge/Stack-Node.Js-42b883?style=for-the-badge&logo=node.js&logoColor=white">](_blank)  
 
----
 
 <h3 align=“center”>
 	Hi, I'm Hippolyte from <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/fr.svg" width=25>.
 	
 </h3>
 
-<p>Backend developper, pasionated and travel lover. </p>
+   Backend passionate developer, always in search of new challenges and nature lover.  
+   Currently learning and growing my skillset in infrastructure and algorithms.
 	
 
 ---
@@ -102,8 +102,7 @@ No Activity tracked this Week
 
 ##  Contact Me :speech_balloon:
 
-[<img src="https://img.shields.io/badge/hlacroix-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hippolyte-lacroix/)  ![Visits Badge](https://badges.pufler.dev/visits/Nerwin/nerwin?style=for-the-badge )   
-
+[<img src="https://img.shields.io/badge/HLacroix-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hippolyte-lacroix/) [<img src="https://img.shields.io/badge/Nerwin-yellow.svg?style=for-the-badge&logo=github&logoColor=white" />]  ![Visits Badge](https://badges.pufler.dev/visits/Nerwin/nerwin?style=for-the-badge )   
 
 <div align="center">
 
