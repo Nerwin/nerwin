@@ -1,8 +1,8 @@
 <h1 align=“center”>
 	<img
 		width=“300”
-		alt=“The Lounge”
-		src=“https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true”>
+		alt=“”
+		src=“https://raw.githubusercontent.com/nerwin/nerwin/master/img/banner.jpg”>
 </h1>
 
 <h3 align=“center”>
@@ -22,10 +22,10 @@
 ---
     
 <img src=https://img.shields.io/badge/Developer-Backend-42b883/>
-<img src=“https://img.shields.io/badge/Os-MacOS-blue?style=for-the-badge&logo=apple”/>
-<img src=“https://img.shields.io/badge/Stack-Node.Js-orange?style=for-the-badge&logo=node.js”/>
+<img src=https://img.shields.io/badge/Os-MacOS-blue?style=for-the-badge&logo=apple/>
+<img src=https://img.shields.io/badge/Stack-Node.Js-orange?style=for-the-badge&logo=node.js/>
 
 ---
 
-[![Nerwin's github stats](https://github-readme-stats.vercel.app/api?username=nerwin)](https://wakatime.com/@nerwin)
+[![Nerwin's github stats](https://github-readme-stats.vercel.app/api?username=nerwin&count_private=true&show_icons=true&theme=onedark)](https://wakatime.com/@nerwin)
 
