@@ -75,7 +75,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash    5 mins          ███████████████████░░░░░░   75.87 % 
+INI     1 min           █████▒░░░░░░░░░░░░░░░░░░░   20.71 % 
 ```
 <!--END_SECTION:waka-->
 
