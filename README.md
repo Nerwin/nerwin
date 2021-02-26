@@ -69,24 +69,6 @@
 
 ---
 
-<details> 
- <summary><b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   21 hrs 5 mins   █████████████████████▒░░░   85.57 % 
-TypeScript   1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-<!--END_SECTION:waka-->
-
-</details>
-
----
-
 <details open>
  <summary><b>My GitHub Stats</b>: </summary>
 
