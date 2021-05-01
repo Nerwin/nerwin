@@ -75,9 +75,6 @@
 <br>
 
 <p align = "left">
-	<img style="vertical-align:left" src="https://github-readme-stats.vercel.app/api?username=nerwin&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs&hide_title=true" />
-</p>
-<p align = "left">
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nerwin&theme=tokyonight" />
 	<img hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerwin&layout=compact&theme=tokyonight&hide=css,php,html" />
 </p>
